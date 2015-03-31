@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/LnD/Interviews/android-crop-master/android-crop-master/example/build/intermediates/exploded-aar/com.soundcloud.android/lib/0.9.10/res/values-large-v4/values.xml -->
+    <eat-comment/>
+    <dimen name="crop__bar_height">64dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\LnD\Interviews\android-crop-master\android-crop-master\example\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-80e839762042aeb2bf74f5dde51ddeacbb8eb838.jar" />
+    </item>
+    <item
+        jar="C:\LnD\Interviews\android-crop-master\android-crop-master\example\build\intermediates\exploded-aar\com.soundcloud.android\lib\0.9.10\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="562eaf28230cf20fb183215edbb835804284deb4">
+        <dex dex="C:\LnD\Interviews\android-crop-master\android-crop-master\example\build\intermediates\pre-dexed\debug\classes-ebf74519b978cd0c6b1dc61e9ebbabbf79ca5aa1.jar" />
+    </item>
+
+</items>
